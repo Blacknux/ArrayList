@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1465876312 source:c:\users\knux\desktop\claret_sa\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465876312 c:\users\knux\desktop\claret_sa\arraylist.h
+
+1465233018 source:c:\users\knux\desktop\claret_sa\claretlib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+
+1465233018 c:\users\knux\desktop\claret_sa\claretlib.h
+
+1465871703 source:c:\users\knux\desktop\claret_sa\employee.c
+
+1465874062 source:c:\users\knux\desktop\claret_sa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"claretlib.h"
+	"ArrayList.h"
+	"Employee.h"
+
+1465872145 c:\users\knux\desktop\claret_sa\employee.h
+
